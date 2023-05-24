@@ -29,7 +29,7 @@ public class Patient {
 	}
 	
 	/**
-	 * Getter method for the first name field of this patient object.
+	 * Getter method for the first name field of this patient.
 	 * 
 	 * @return this patient's first name
 	 */
